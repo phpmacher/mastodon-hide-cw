@@ -1,0 +1,1 @@
+# mastodon-hide-cw
